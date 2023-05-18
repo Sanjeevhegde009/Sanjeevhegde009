@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjeev Hegde
-- 👀 I’m interested in Data Science and trading
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science and Quant Trading
+- 🌱 Always learning Data Science
 - 💞️ I’m looking to collaborate on Python projects and Machine Learning
 - 📫 How to reach me @https://www.linkedin.com/in/sanjeev-s-hegde/
 
